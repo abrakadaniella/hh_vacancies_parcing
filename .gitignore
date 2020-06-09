@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+.vagrant/
+.DS_Store
+__pycache__/
+config.py
+venv/
+data.xlsx
+dt.csv
